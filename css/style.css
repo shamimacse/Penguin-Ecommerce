@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+.logo-img img{
+    width: 250px;
+}
+.menu{
+    
+}
+.header-1{
+    
+    background-color:#FFFBF0;
+}
+.contain-text{
+
+    padding-top: 100px;
+}
+h1{
+    font-size: 60px;
+    font-weight: 700;
+    color:#363958;
+}
+h2{
+    color:363958;
+}
+.orenge{
+    color:#FABF50;
+}
+.woman-img{
+    width: 500px;
+    
+}
+
+
+/* section3-start */
+
+.Jacket-card {
+   border: 0;
+ }
+ .Jacket-card img{
+    height: 400px;
+    background-color: #F1F1F1;
+    border-radius: 4em;
+ 
+}
+.card-part{
+    box-shadow: 0px 0px 10px rgb(224, 219, 219);
+    border: 0px;
+    
+}
+.Jacket-card-footer{
+    background-color: white;
+    border: 0;
+}
+.button-bg{
+    background-color: #95AE30;
+    border: 0;
+    width: 150px;
+    height: 50px;
+    color: white;
+    border-radius: 1em;
+}
+
+
+
+
+/* section5-start */
+
+
+.shopping-img img {
+    width: 80px;
+    height: 80px;
+}
+.shopping-content {
+    margin-left: 15px;
+}
+.shopping-feature img {
+    width: 100%;
+}
